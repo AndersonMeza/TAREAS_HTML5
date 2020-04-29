@@ -1,0 +1,25 @@
+
+    section.section1
+    {
+        background-color : rgb(117, 236, 117);
+    }
+    h1
+    {
+        text-align: center;
+    }
+    img
+    {        
+        width: 400px;
+        height: 400px;
+    }
+    hr
+    {
+        border: 30px solid rgb(79, 194, 89);                      
+    }
+
+    footer
+    {
+        color: white;
+        text-align: center;
+        background-color: rgb(24, 78, 13);
+    }
