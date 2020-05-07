@@ -1,0 +1,73 @@
+h1{
+    color:#0EC9A1;
+    text-align: right;
+    text-shadow:  2px 2px 4px red;
+}
+h4{
+    color: saddlebrown;
+
+}
+#figura{
+    width: 1000px;
+    height: 1030px;
+    background-color: lightblue;
+    margin-left: 200px;
+    border: 3px solid gray;
+}
+#figura2{
+    width: 980px;
+    height: 100px;
+    background-color: lightpink;
+    margin-left: 10px;
+}
+h1.figura3{
+    width: 800px;
+    height: 80px;
+    background-color: orchid;
+    margin-top: 10px;
+    margin-left: 80px;
+    border: 2px solid rosybrown;
+}
+#figura4{
+    width: 1000px;
+    height: 50px;
+    background-color: khaki;
+}
+#box1{
+    width: 400px;
+    height: 400px;
+    margin-top: -6em;
+    border:2px solid orangered;
+}
+#box2{
+    width: 400px;
+    height: 400px;
+    border: 2px solid green;
+}
+.mitexto1{
+    color: maroon;
+    font: bold 90% monospace;
+}
+.mitexto2{
+    color: mediumblue;
+    font: bold 70% cursive;
+}
+#texto{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin-left: 800px;
+}
+#pie{
+    color: black;
+    text-align: center;
+}
+:not(p){
+    margin: 0px;
+}
+p:nth-child(odd){
+    background: hotpink;
+}
+p:nth-child(even){
+    background:purple;
+}
